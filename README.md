@@ -19,9 +19,14 @@ Hi, I'm **Mohd Ali** — an ambitious frontend developer passionate about buildi
 ---
 
 ## 📂 My Projects
-- 🎮 **Rock Paper Scissors Game** – a fun interactive game built with JavaScript  
-- ❌⭕ **Tic Tac Toe Game** – classic two-player game with responsive design  
-- 🛒 **E-commerce Demo (EverBuy)** – shopping cart, product filters, and checkout flow  
+-  Rock Paper Scissors Game
+Developed an interactive browser-based game using JavaScript, incorporating DOM manipulation to dynamically update the interface and enhance user engagement. This project demonstrates strong command of core programming logic, event handling, and responsive design principles.
+-  Tic Tac Toe Game
+Engineered a modern version of the classic two-player game with a clean, intuitive interface. Leveraged DOM manipulation to render game states in real time, ensuring smooth gameplay and mobile-friendly responsiveness. Highlights modular coding practices, accessibility, and user-focused design.
+-  EverBuy (E-commerce)
+Built a functional e-commerce prototype featuring best-in-class user interface that emphasizes clarity, aesthetics, ease of navigation, shopping cart management, and a streamlined checkout flow. Utilized DOM manipulation for dynamic product rendering and cart updates, showcasing proficiency in state management, workflow optimization, and user-centric design.
+-  Whiskerverse
+Designed and implemented an API-powered application that integrates external data sources to deliver dynamic, real-time content. Combined API consumption with DOM manipulation to present live datasets seamlessly within the interface. This project reflects expertise in asynchronous operations, data handling, and scalable front-end solutions.
 
 ---
 
