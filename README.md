@@ -72,4 +72,6 @@ Designed and implemented an API-powered application that integrates external dat
  
 ---
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohdali644&theme=dark&hide_border=true)
+
 ⭐Explore my other repos to see my projects in action!
