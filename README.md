@@ -52,11 +52,21 @@ Designed and implemented an API-powered application that integrates external dat
 
 ---
 
-## 📖 Learning Journey
-- Started with **C** for programming fundamentals  
-- Expanded into **Python** for problem-solving and backend basics  
-- Transitioned into **HTML, CSS, JavaScript** for frontend development  
-- Currently exploring **Node.js, Express.js, and databases** for full-stack skills  
+## 📘 Learning Journey
+- **Foundational Programming**  
+  Began with C to strengthen fundamentals in logic, data structures, and algorithmic thinking.
+
+- **Problem Solving & Backend Basics**  
+  Expanded into Python for scripting, automation, and introductory backend concepts, reinforcing analytical and problem‑solving skills.
+
+- **Frontend Development Mastery**  
+  Transitioned into HTML, CSS, and JavaScript, building interactive web apps with responsive layouts, modern animations, and user‑centric design.
+
+- **Modern UI & Real-World Applications**  
+  Focused on attractive, professional UI/UX by integrating CSS animations, branding elements, and design systems into projects such as the animated *Tic Tac Toe* game.
+
+- **Full‑Stack Exploration**  
+  Currently learning Node.js, Express.js, and databases (MongoDB, PostgreSQL) to design scalable, end‑to‑end applications with real‑world utility.
 
 ---
 
