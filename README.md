@@ -20,6 +20,7 @@ Hi, I'm **Mohd Ali** — an ambitious frontend developer passionate about buildi
 
 ## 📂 My Projects
 -  Rock Paper Scissors Game
+  
 Developed an interactive browser-based game using JavaScript, incorporating DOM manipulation to dynamically update the interface and enhance user engagement. This project demonstrates strong command of core programming logic, event handling, and responsive design principles.
 -  Tic Tac Toe Game
 Engineered a modern version of the classic two-player game with a clean, intuitive interface. Leveraged DOM manipulation to render game states in real time, ensuring smooth gameplay and mobile-friendly responsiveness. Highlights modular coding practices, accessibility, and user-focused design.
@@ -38,7 +39,7 @@ Designed and implemented an API-powered application that integrates external dat
 ---
 
 ## 📖 Learning Journey
-- Started with **C and Java** for programming fundamentals  
+- Started with **C** for programming fundamentals  
 - Expanded into **Python** for problem-solving and backend basics  
 - Transitioned into **HTML, CSS, JavaScript** for frontend development  
 - Currently exploring **Node.js, Express.js, and databases** for full-stack skills  
