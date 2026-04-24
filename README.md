@@ -70,24 +70,6 @@ Designed and implemented an API-powered application that integrates external dat
 
 ---
 
-## 🌟 Goals
-- **Deliver Industry-Grade Projects**  
-  Build portfolio applications that demonstrate scalability, clean architecture, and practical problem‑solving aligned with modern development standards.
-
-- **Advance Technical Expertise**  
-  Deepen proficiency in full‑stack technologies (React, Next.js, Node.js, Express.js, databases) while mastering modern UI/UX practices for engaging user experiences.
-
-- **Modern UI Learning**  
-  Explore cutting‑edge design systems, CSS animations, and responsive frameworks to create visually attractive, user‑centric applications that reflect current industry trends.
-
-- **Strengthen Professional Profile**  
-  Continuously refine GitHub repositories, documentation, and resume to present a polished, employer‑ready portfolio showcasing both technical depth and creative branding.
-
-- **Contribute to Open Source**  
-  Actively participate in collaborative projects, leveraging GitHub workflows to support community development and knowledge sharing.
-  
----
-
 ## 📫 Connect With Me
 - GitHub: [@Mohdali644](https://github.com/Mohdali644)  
  
