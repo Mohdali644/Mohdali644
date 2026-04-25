@@ -34,21 +34,9 @@ Designed and implemented an API-powered application that integrates external dat
 ---
 
 ## 🏆 Achievements
-- **Developed Interactive Web Applications**  
-  Built and deployed multiple modern, animated web apps showcasing strong front‑end development skills (HTML, CSS, JavaScript).
+**🎖️ HackForge 2.0 Hackathon (2026)**
 
-- **Version Control & Collaboration**  
-  Gained hands‑on experience managing GitHub repositories, using branches, pull requests, and issues to streamline teamwork.
-
-- **Creative UI/UX Design**  
-  Completed projects that balance **logic building** with **visual storytelling**, integrating CSS animations and user‑centric design.
-
-- **Portfolio-Ready Projects**  
-  Delivered polished applications such as *Whiskerverse* (API‑powered app) and an animated *Tic Tac Toe* game, demonstrating both technical depth and branding clarity.
-
-- **Continuous Learning & Adaptation**  
-  Committed to staying current with evolving web technologies by exploring modern frameworks, libraries, and design practices.  
-  Regularly refine projects through iterative feedback, emphasizing clean code, scalability, and maintainability. Actively engage in problem‑solving challenges, coding exercises, and real‑world projects to strengthen both technical depth and creative thinking.
+- Developed Aptivox, an AI-powered interview platform using NLP, ML, and real-time analytics, competing among 200+ teams and finishing among the top-performing     participants
 
 ---
 
