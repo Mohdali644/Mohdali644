@@ -36,7 +36,7 @@ Designed and implemented an API-powered application that integrates external dat
 ## 🏆 Achievements
 **🎖️ HackForge 2.0 Hackathon (2026)**
 
-Developed Aptivox, an AI-powered interview platform using NLP, ML, and real-time analytics, competing among 200+ teams and finishing among top-performing participants, achieving up to 89% reduction in hiring time, 92% accuracy in skill matching, and improved bias-free candidate evaluation
+   Developed Aptivox, an AI-powered interview platform using NLP, ML, and real-time analytics, competing among 200+ teams and finishing among top-performing          participants, achieving up to 89% reduction in hiring time, 92% accuracy in skill matching, and improved bias-free candidate evaluation
 
 ---
 
