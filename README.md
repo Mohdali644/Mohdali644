@@ -63,7 +63,13 @@ Designed and implemented an API-powered application that integrates external dat
  
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohdali644&theme=dark&hide_border=true&v=1)
+![Streak](https://streak-stats.demolab.com?user=Mohdali644&theme=tokyonight)
+
+
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohdali644&theme=tokyonight"/>
+  </p>
 
 ---
+
 ⭐Explore my other repos to see my projects in action!
