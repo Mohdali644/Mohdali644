@@ -24,8 +24,6 @@ Operating at the bleeding edge of modern web infrastructure. My stack is curated
 
 > **"Engineering is not just about writing code; it is about designing resilient systems that solve complex, real-world constraints at scale."**
 
-* **[Active] High-Fidelity Lossless Photo Compositing Engine**
-    * Architecting a programmatic, canvas-driven application engineered for seamlessly merging multi-layered photo collages. The core algorithmic constraint guarantees that the final rendered output retains the exact original clarity and visual quality of the source files, completely eliminating lossy compression artifacts.
 * **[Deployed] EverBuy: High-Frequency E-Commerce Prototype**
     * Designed a hyper-optimized retail architecture. Implemented aggressive DOM manipulation algorithms to achieve seamless, zero-latency dynamic product rendering and highly persistent cart state management.
 * **[System Refactor] Whiskerverse Data Aggregator**
