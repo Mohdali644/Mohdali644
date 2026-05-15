@@ -26,8 +26,10 @@ Operating at the bleeding edge of modern web infrastructure. My stack is curated
 
 * **[Deployed] EverBuy: High-Frequency E-Commerce Prototype**
     * Designed a hyper-optimized retail architecture. Implemented aggressive DOM manipulation algorithms to achieve seamless, zero-latency dynamic product rendering and highly persistent cart state management.
+      
 * **[System Refactor] Whiskerverse Data Aggregator**
     * Constructed a highly available, API-driven platform. Orchestrating complex asynchronous data pipelines from disparate endpoints to deliver a unified, real-time client experience without thread-blocking.
+      
 * **[Interactive Suite] Algorithmic Web Engines (Tic-Tac-Toe & Rock-Paper-Scissors)**
     * Engineered a unified suite of logic-heavy, state-driven client-side applications. Demonstrated mastery over complex array manipulation, predictive state-handling, zero-latency DOM repainting, and win-state validation algorithms. Implemented strict modularity and fluid CSS3 animations for immediate user feedback.
 
