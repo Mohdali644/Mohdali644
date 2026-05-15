@@ -1,75 +1,68 @@
-Hi, I'm **Mohd Ali** — an ambitious frontend developer passionate about building interactive, visually engaging web projects.  
----
+<div align="center">
 
-🎨 Enthusiastic about **UI/UX design, CSS animations, and creative portfolio projects**
+#  MOHD ALI 
+### FRONTEND ARCHITECT | FULL-STACK EXPLORER | SYSTEMS INNOVATOR
 
----
+**Executing paradigm-shifting web architectures with zero-latency performance and pixel-perfect precision.**
 
-## 🚀 Languages & Tools
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
----
-
-## 📂 My Projects
-- **Rock Paper Scissors Game** -
-Developed an interactive browser-based game using JavaScript, incorporating DOM manipulation to dynamically update the interface and enhance user engagement. This project demonstrates strong command of core programming logic, event handling, and responsive design principles.
-
-- **Tic Tac Toe Game** -
-Engineered a modern version of the classic two-player game with a clean, intuitive interface. Leveraged DOM manipulation to render game states in real time, ensuring smooth gameplay and mobile-friendly responsiveness. Highlights modular coding practices, accessibility, and user-focused design.
-
-- **EverBuy (E-commerce)** -
-Built a functional e-commerce prototype featuring best-in-class user interface that emphasizes clarity, aesthetics, ease of navigation, shopping cart management, and a streamlined checkout flow. Utilized DOM manipulation for dynamic product rendering and cart updates, showcasing proficiency in state management, workflow optimization, and user-centric design.
-
-- **Whiskerverse** -
-Designed and implemented an API-powered application that integrates external data sources to deliver dynamic, real-time content. Combined API consumption with DOM manipulation to present live datasets seamlessly within the interface. This project reflects expertise in asynchronous operations, data handling, and scalable front-end solutions.
+</div>
 
 ---
 
-## 🏆 Achievements
-**🎖️ HackForge 2.0 Hackathon (2026)**
+### 🌐 THE TECHNICAL ARSENAL & CONNECTIVITY NEXUS
 
-   Developed Aptivox, an AI-powered interview platform using NLP, ML, and real-time analytics, competing among 200+ teams and finishing among top-performing          participants, achieving up to 89% reduction in hiring time, 92% accuracy in skill matching, and improved bias-free candidate evaluation
+Operating at the bleeding edge of modern web infrastructure. My stack is curated for maximum scalability, deterministic rendering, and robust state management. 
 
----
-
-## 📘 Learning Journey
-- **Foundational Programming**  
-  Began with C to strengthen fundamentals in logic, data structures, and algorithmic thinking.
-
-- **Problem Solving & Backend Basics**  
-  Expanded into Python for scripting, automation, and introductory backend concepts, reinforcing analytical and problem‑solving skills.
-
-- **Frontend Development Mastery**  
-  Transitioned into HTML, CSS, and JavaScript, building interactive web apps with responsive layouts, modern animations, and user‑centric design.
-
-- **Modern UI & Real-World Applications**  
-  Focused on attractive, professional UI/UX by integrating CSS animations, branding elements, and design systems into projects such as the animated *Tic Tac Toe* game.
-
-- **Full‑Stack Exploration**  
-  Currently learning Node.js, Express.js, and databases (MongoDB, PostgreSQL) to design scalable, end‑to‑end applications with real‑world utility.
+| DOMAIN | TECHNOLOGIES & DIRECT CHANNELS |
+| :--- | :--- |
+| **Core Languages** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> |
+| **Frontend Architecture** | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> |
+| **Backend & DB Infrastructure** | <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> |
+| **Professional Nexus** | <a href="https://www.linkedin.com/in/mohd-ali-973938333/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/Mohdali644" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> |
 
 ---
 
-## 📫 Connect With Me
-- GitHub: [@Mohdali644](https://github.com/Mohdali644)  
- 
+### 🚀 ENTERPRISE-GRADE & LOGIC-DRIVEN ENGINEERING
+
+> **"Engineering is not just about writing code; it is about designing resilient systems that solve complex, real-world constraints at scale."**
+
+* **[Active] High-Fidelity Lossless Photo Compositing Engine**
+    * Architecting a programmatic, canvas-driven application engineered for seamlessly merging multi-layered photo collages. The core algorithmic constraint guarantees that the final rendered output retains the exact original clarity and visual quality of the source files, completely eliminating lossy compression artifacts.
+* **[Deployed] EverBuy: High-Frequency E-Commerce Prototype**
+    * Designed a hyper-optimized retail architecture. Implemented aggressive DOM manipulation algorithms to achieve seamless, zero-latency dynamic product rendering and highly persistent cart state management.
+* **[System Refactor] Whiskerverse Data Aggregator**
+    * Constructed a highly available, API-driven platform. Orchestrating complex asynchronous data pipelines from disparate endpoints to deliver a unified, real-time client experience without thread-blocking.
+* **[Interactive Suite] Algorithmic Web Engines (Tic-Tac-Toe & Rock-Paper-Scissors)**
+    * Engineered a unified suite of logic-heavy, state-driven client-side applications. Demonstrated mastery over complex array manipulation, predictive state-handling, zero-latency DOM repainting, and win-state validation algorithms. Implemented strict modularity and fluid CSS3 animations for immediate user feedback.
+
 ---
 
-![Streak](https://streak-stats.demolab.com?user=Mohdali644&theme=tokyonight)
+### 🏆 APEX ACHIEVEMENTS & QUANTIFIABLE IMPACT
 
-
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohdali644&theme=tokyonight"/>
-  </p>
+**🏅 HackForge 2.0 (2026) — Apex Innovator & Top-Tier Finisher**
+* **The Architecture:** Spearheaded the technical rollout of **Aptivox**, an enterprise-grade, AI-driven interviewing platform deployed in a high-pressure, time-constrained environment against 200+ elite global teams.
+* **The Impact:** Integrated sophisticated NLP algorithms and Machine Learning models to systematically eliminate human bias in recruitment. 
+* **The Metrics:** Delivered an application proven to drive an **89% reduction** in hiring cycle latency and a **92% accuracy rate** in algorithmic skill-matching.
 
 ---
 
-⭐Explore my other repos to see my projects in action!
+### ⚙️ ENGINEERING PHILOSOPHY & TRAJECTORY
+
+1.  **Algorithmic Rigor:** Forged a relentless foundation in core computational logic, memory optimization, and data structures through intensive **C** and **Python** development. 
+2.  **Client-Side Dominance:** Mastering the complete lifecycle of frontend systems to deliver accessible, heavily interactive, and buttery-smooth user interfaces that command attention.
+3.  **Full-Stack Scaling:** Executing a strategic, deep-dive expansion into the **MERN/PERN ecosystems** to architect end-to-end, highly secure, and horizontally scalable backend infrastructures.
+
+---
+
+### 📈 REAL-TIME TELEMETRY & GITHUB METRICS
+
+<div align="center">
+
+[![Advanced GitHub Telemetry](https://github-readme-stats.vercel.app/api?username=Mohdali644&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Mohdali644)
+[![Commit Streak Analytics](https://github-readme-streak-stats.herokuapp.com/?user=Mohdali644&theme=tokyonight&hide_border=true)](https://github.com/Mohdali644)
+
+[![Language Distribution Analytics](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohdali644&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Mohdali644)
+
+</div>
+
+<p align="center"><strong>Explore my other repos to see my projects in action!⚡ </strong></p>
