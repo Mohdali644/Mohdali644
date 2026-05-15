@@ -1,5 +1,3 @@
-<div align="center">
-
 #  MOHD ALI 
 ### FRONTEND ARCHITECT | FULL-STACK EXPLORER | SYSTEMS INNOVATOR
 
@@ -18,7 +16,7 @@ Operating at the bleeding edge of modern web infrastructure. My stack is curated
 | **Core Languages** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> |
 | **Frontend Architecture** | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> |
 | **Backend & DB Infrastructure** | <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> |
-| **Professional Nexus** | <a href="https://www.linkedin.com/in/mohd-ali-973938333/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/Mohdali644" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> |
+| **Professional Nexus & VCS** | <a href="http://127.0.0.1:5500/index.html" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <a href="https://www.linkedin.com/in/mohd-ali-973938333/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/Mohdali644" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> |
 
 ---
 
@@ -26,6 +24,8 @@ Operating at the bleeding edge of modern web infrastructure. My stack is curated
 
 > **"Engineering is not just about writing code; it is about designing resilient systems that solve complex, real-world constraints at scale."**
 
+* **[Active] High-Fidelity Lossless Photo Compositing Engine**
+    * Architecting a programmatic, canvas-driven application engineered for seamlessly merging multi-layered photo collages. The core algorithmic constraint guarantees that the final rendered output retains the exact original clarity and visual quality of the source files, completely eliminating lossy compression artifacts.
 * **[Deployed] EverBuy: High-Frequency E-Commerce Prototype**
     * Designed a hyper-optimized retail architecture. Implemented aggressive DOM manipulation algorithms to achieve seamless, zero-latency dynamic product rendering and highly persistent cart state management.
 * **[System Refactor] Whiskerverse Data Aggregator**
@@ -63,4 +63,4 @@ Operating at the bleeding edge of modern web infrastructure. My stack is curated
 
 </div>
 
-<p align="center"><strong>Explore my other repos to see my projects in action!⚡ </strong></p>
+<p align="center"><strong>Explore my other repos to see my projects in action!⚡</strong></p>
