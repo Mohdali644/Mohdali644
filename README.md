@@ -11,7 +11,7 @@
 
 ### 🌐 THE TECHNICAL ARSENAL & CONNECTIVITY NEXUS
 
-Operating at the bleeding edge of modern web infrastructure. My stack is curated for maximum scalability, deterministic rendering, and robust state management. 
+>Operating at the bleeding edge of modern web infrastructure. My stack is curated for maximum scalability, deterministic rendering, and robust state management. 
 
 | DOMAIN | TECHNOLOGIES & DIRECT CHANNELS |
 | :--- | :--- |
@@ -39,7 +39,7 @@ Operating at the bleeding edge of modern web infrastructure. My stack is curated
 
 ### 🏆 APEX ACHIEVEMENTS & QUANTIFIABLE IMPACT
 
-**🏅 HackForge 2.0 (2026) — Apex Innovator & Top-Tier Finisher**
+>**🏅 HackForge 2.0 (2026) — Apex Innovator & Top-Tier Finisher**
 * **The Architecture:** Spearheaded the technical rollout of **Aptivox**, an enterprise-grade, AI-driven interviewing platform deployed in a high-pressure, time-constrained environment against 200+ elite global teams.
 * **The Impact:** Integrated sophisticated NLP algorithms and Machine Learning models to systematically eliminate human bias in recruitment. 
 * **The Metrics:** Delivered an application proven to drive an **89% reduction** in hiring cycle latency and a **92% accuracy rate** in algorithmic skill-matching.
@@ -55,14 +55,16 @@ Operating at the bleeding edge of modern web infrastructure. My stack is curated
 ---
 
 ### 📈 REAL-TIME TELEMETRY & GITHUB METRICS
+#
 
 <div align="center">
 
 [![Advanced GitHub Telemetry](https://github-readme-stats.vercel.app/api?username=Mohdali644&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Mohdali644)
+
 [![Commit Streak Analytics](https://github-readme-streak-stats.herokuapp.com/?user=Mohdali644&theme=tokyonight&hide_border=true)](https://github.com/Mohdali644)
 
 [![Language Distribution Analytics](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohdali644&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Mohdali644)
 
 </div>
-
+#
 <p align="center"><strong>Explore my other repos to see my projects in action!⚡</strong></p>
