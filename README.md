@@ -28,7 +28,7 @@
 > **"Engineering is not just about writing code; it is about designing resilient systems that solve complex, real-world constraints at scale."**
 
 * **EverBuy: High-Frequency E-Commerce Prototype**
-    * Designed a hyper-optimized retail architecture. Implemented aggressive DOM manipulation algorithms to achieve seamless, zero-latency dynamic product rendering and highly persistent cart state management.
+    * EverBuy is a hyper-optimized retail platform featuring zero-latency DOM orchestration and state-persistent inventory management. It integrates real-time social proof telemetry and high-precision flash-sale timers to drive user urgency. Through algorithmic UI design, it delivers immersive 3D-tilt interactions and fluid, performance-neutral animations. This architecture demonstrates enterprise-grade mastery in synthesizing aesthetic precision with complex, asynchronous client-side systems.
       
 * **Whiskerverse: Data Aggregator**
     * Constructed a highly available, API-driven platform. Orchestrating complex asynchronous data pipelines from disparate endpoints to deliver a unified, real-time client experience without thread-blocking.
