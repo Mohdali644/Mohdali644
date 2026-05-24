@@ -68,4 +68,5 @@
 </div>
 
 <br>
-<p align="center"><strong>Explore my other repos to see my projects in action! ⚡</strong></p>
+
+<strong>Explore my other repos to see my projects in action! ⚡</strong>
