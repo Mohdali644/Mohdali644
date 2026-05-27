@@ -4,6 +4,7 @@
 ### FRONTEND ARCHITECT | FULL-STACK EXPLORER | SYSTEMS INNOVATOR
 <br>
 
+
 **Executing paradigm-shifting web architectures with zero-latency performance and pixel-perfect precision.**
 
 </div>
