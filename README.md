@@ -49,6 +49,7 @@
 
 ---
 
+
 ### ⚙️ ENGINEERING PHILOSOPHY & TRAJECTORY
 
 1.  **Algorithmic Rigor:** Forged a relentless foundation in core computational logic, memory optimization, and data structures through intensive **C** and **Python** development. 
