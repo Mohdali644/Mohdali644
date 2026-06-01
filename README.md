@@ -7,7 +7,6 @@
 
 **Executing paradigm-shifting web architectures with zero-latency performance and pixel-perfect precision.**
 
-
 </div>
 
 ---
@@ -38,7 +37,6 @@
 * **Algorithmic Web Engines: (Tic-Tac-Toe & Rock-Paper-Scissors)**
     * Engineered a unified suite of logic-heavy, state-driven client-side applications. Demonstrated mastery over complex array manipulation, predictive state-handling, zero-latency DOM repainting, and win-state validation algorithms. Implemented strict modularity and fluid CSS3 animations for immediate user feedback.
 
-
 ---
 
 ### 🏆 APEX ACHIEVEMENTS & QUANTIFIABLE IMPACT
@@ -58,8 +56,6 @@
 3.  **Full-Stack Scaling:** Executing a strategic, deep-dive expansion into the **MERN/PERN ecosystems** to architect end-to-end, highly secure, and horizontally scalable backend infrastructures.
 
 ---
-
-
 
 ### 📈 REAL-TIME TELEMETRY & GITHUB METRICS
 
