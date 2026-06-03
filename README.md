@@ -1,6 +1,7 @@
 <div align="center">
 
-#  MOHD ALI 
+
+#  Hi, Im MOHD ALI 
 ### FRONTEND ARCHITECT | FULL-STACK EXPLORER | SYSTEMS INNOVATOR
 <br>
 
