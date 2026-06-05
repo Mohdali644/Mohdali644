@@ -44,7 +44,7 @@
 >**🏅 HackForge 2.0 (2026) — Apex Innovator & Top-Tier Finisher**
 * **The Architecture:** Spearheaded the technical rollout of **Aptivox**, an enterprise-grade, AI-driven interviewing platform deployed in a high-pressure, time-constrained environment against 200+ elite global teams.
 * **The Impact:** Integrated sophisticated NLP algorithms and Machine Learning models to systematically eliminate human bias in recruitment. 
-* **The Metrics:** Delivered an application proven to drive an **89% reduction** in hiring cycle latency and a **92% accuracy rate** in algorithmic skill-matching.
+* **The Metrics:** Delivered an application proven to drive an **89% reduction** in hiring cycle latency and a **96% accuracy rate** in algorithmic skill-matching.
 
 ---
 
