@@ -12,9 +12,7 @@
 
 ---
 
-<h2 style="border-bottom:1px solid #444; padding-bottom:4px; display:inline-block;">
-  🌐 THE TECHNICAL ARSENAL & CONNECTIVITY NEXUS
-</h2>
+### 🌐 THE TECHNICAL ARSENAL & CONNECTIVITY NEXUS
 
 >Operating at the bleeding edge of modern web infrastructure. My stack is curated for maximum scalability, deterministic rendering, and robust state management. 
 
@@ -57,6 +55,7 @@
 
 
 ### ⚙️ ENGINEERING PHILOSOPHY & TRAJECTORY
+> **Technical Evolution & Career Pathway**
 
 1.  **Algorithmic Rigor:** Forged a relentless foundation in core computational logic, memory optimization, and data structures through intensive **C** and **Python** development. 
 2.  **Client-Side Dominance:** Mastering the complete lifecycle of frontend systems to deliver accessible, heavily interactive, and buttery-smooth user interfaces that command attention.
