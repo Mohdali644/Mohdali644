@@ -12,7 +12,9 @@
 
 ---
 
-### 🌐 THE TECHNICAL ARSENAL & CONNECTIVITY NEXUS
+<h2 style="border-bottom:1px solid #444; padding-bottom:4px; display:inline-block;">
+  🌐 THE TECHNICAL ARSENAL & CONNECTIVITY NEXUS
+</h2>
 
 >Operating at the bleeding edge of modern web infrastructure. My stack is curated for maximum scalability, deterministic rendering, and robust state management. 
 
