@@ -14,7 +14,7 @@
 
 ### 🌐 THE TECHNICAL ARSENAL & CONNECTIVITY NEXUS
 
->Operating at the bleeding edge of modern web infrastructure. My stack is curated for maximum scalability, deterministic rendering, and robust state management. 
+> **Operating at the bleeding edge of modern web infrastructure. My stack is curated for maximum scalability, deterministic rendering, and robust state management.**
 
 | DOMAIN | TECHNOLOGIES & DIRECT CHANNELS |
 | :--- | :--- |
