@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hi, Im Mohd Ali 
+#  Hi, I'm Mohd Ali 
 ### FRONTEND ARCHITECT | FULL-STACK EXPLORER | SYSTEMS INNOVATOR
 <br>
 
