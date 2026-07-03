@@ -4,7 +4,8 @@
 ### FRONTEND ARCHITECT | FULL-STACK EXPLORER | SYSTEMS INNOVATOR
 <br>
 
-
+<div align="center"> <a href="https://mohdali644.github.io/Folio/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"/></a> </div>
+<br>
 **Executing paradigm-shifting web architectures with zero-latency performance and pixel-perfect precision.**
 
 </div>
