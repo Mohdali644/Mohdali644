@@ -77,4 +77,14 @@
 
 <br>
 
+---
+
+### 📫 Connect with me
+[Portfolio](https://mohdali644.github.io/Portfolio/) · 
+[LinkedIn](https://www.linkedin.com/in/mohdali644/) · 
+[GitHub](https://github.com/Mohdali644) ·  
+[Email](mailto:envied94@gmail.com)
+
+---
+<br>
 <strong>Explore my other repos to see my projects in action! ⚡</strong>
