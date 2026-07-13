@@ -79,8 +79,6 @@
 
 ---
 
----
-
 ### 📫 Connect with me
 [Portfolio](https://mohdali644.github.io/Portfolio/) · 
 [LinkedIn](https://www.linkedin.com/in/mohdali644/) · 
