@@ -80,8 +80,8 @@
 ---
 
 ### 📫 Connect with me
-[Portfolio](https://mohdali644.github.io/Portfolio/) · 
-[LinkedIn](https://www.linkedin.com/in/mohdali644/) · 
+[Portfolio](https://mohdali644.github.io/Folio/) · 
+[LinkedIn](https://www.linkedin.com/in/mohd-ali-dev/) · 
 [GitHub](https://github.com/Mohdali644) · 
 [Email](mailto:envied94@gmail.com)
 
