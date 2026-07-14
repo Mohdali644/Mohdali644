@@ -32,7 +32,6 @@
 
 ### 🚀 ENTERPRISE-GRADE & LOGIC-DRIVEN ENGINEERING
 
-
 > **Engineering is not just about writing code; it is about designing resilient systems that solve complex, real-world constraints at scale.**
 
 * **EverBuy: High-Frequency E-Commerce Prototype**
@@ -54,7 +53,6 @@
 * **The Metrics:** Delivered an application proven to drive an **89% reduction** in hiring cycle latency and a **96% accuracy rate** in algorithmic skill-matching.
 
 ---
-
 
 ### ⚙️ ENGINEERING PHILOSOPHY & TRAJECTORY
 > **Technical Evolution & Career Pathway**
