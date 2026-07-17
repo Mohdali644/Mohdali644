@@ -48,7 +48,6 @@
 * **The Impact:** Engineered a Semantic Relevance Engine with NLP pipelines (spaCy, NLTK) to successfully orchestrate the objective, bias-free evaluation of unstructured academic data.
 * **The Metrics:** Achieved a 95.92% NLP processing accuracy and a 0.70–0.90 Pearson correlation, directly matching the evaluation consistency of expert human reviewers.
 
----
 <br>
 
 >**🏅 HackForge 2.0 (2026) — Apex Innovator & Top-Tier Finisher**
