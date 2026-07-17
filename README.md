@@ -29,17 +29,16 @@
 
 ### 🚀 ENTERPRISE-GRADE & LOGIC-DRIVEN ENGINEERING
 
-> **Engineering is not just about writing code; it is about designing resilient systems that solve complex, real-world constraints at scale.**
+> Engineering is not just about writing code; it is about designing resilient systems that solve complex, real-world constraints at scale.
 
 * **EverBuy: High-Frequency E-Commerce Prototype**
-    * EverBuy is a hyper-optimized retail platform featuring zero-latency DOM orchestration and state-persistent inventory management. It integrates real-time social proof telemetry and high-precision flash-sale timers to drive user urgency. Through algorithmic UI design, it delivers immersive 3D-tilt interactions and fluid, performance-neutral animations. This architecture demonstrates enterprise-grade mastery in synthesizing aesthetic precision with complex, asynchronous client-side systems.
-      
-* **Whiskerverse: Data Aggregator**
-    * Constructed a highly available, API-driven platform. Orchestrating complex asynchronous data pipelines from disparate endpoints to deliver a unified, real-time client experience without thread-blocking.
-      
-* **Algorithmic Web Engines: (Tic-Tac-Toe & Rock-Paper-Scissors)**
-    * Engineered a unified suite of logic-heavy, state-driven client-side applications. Demonstrated mastery over complex array manipulation, predictive state-handling, zero-latency DOM repainting, and win-state validation algorithms. Implemented strict modularity and fluid CSS3 animations for immediate user feedback.
+  * Engineered a hyper-optimized retail platform featuring zero-latency DOM orchestration and state-persistent inventory. Synthesized complex asynchronous architecture with real-time user telemetry and performance-neutral 3D UI interactions.
 
+* **Whiskerverse: Data Aggregator**
+  * Constructed a highly available, API-driven platform that orchestrates complex, asynchronous data pipelines from disparate endpoints, delivering a unified, real-time client experience without thread-blocking.
+
+* **Algorithmic Web Engines (Tic-Tac-Toe & Rock-Paper-Scissors)**
+  * Architected a suite of logic-heavy, state-driven applications. Executed complex array manipulation, predictive state-handling, and rigorous win-state validation algorithms alongside strict modularity and zero-latency DOM repainting.
 ---
 
 ### 🏆 APEX ACHIEVEMENTS & QUANTIFIABLE IMPACT
