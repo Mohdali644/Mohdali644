@@ -45,11 +45,11 @@
 ### 🏆 APEX ACHIEVEMENTS & QUANTIFIABLE IMPACT
 
  >**🔬 Academic Publication (2026) — Indian Journal of Technical Education (IJTE)**
+* **The Architecture:** Co-authored "AI Powered Academic Evaluation," architecting a multimodal React/Flask platform leveraging LLMs for scalable, automated grading.
+* **The Impact:** Engineered a Semantic Relevance Engine with NLP pipelines (spaCy, NLTK) to successfully orchestrate the objective, bias-free evaluation of unstructured academic data.
+* **The Metrics:** Achieved a 95.92% NLP processing accuracy and a 0.70–0.90 Pearson correlation, directly matching the evaluation consistency of expert human reviewers.
 
-* **The Architecture:** Co-architected "AI Powered Academic Evaluation," a multimodal client-server platform leveraging state-of-the-art Large Language Models (LLMs) and deterministic web infrastructure (React/Flask) for scalable, automated grading.
-* **The Impact:** Engineered a Semantic Relevance Engine integrating sophisticated NLP pipelines (spaCy, NLTK) to orchestrate the objective, bias-free evaluation of unstructured academic data, bridging the gap between generative AI and rigorous educational ecosystems.
-* **The Metrics:** Quantified enterprise-grade system reliability by achieving a 95.92% accuracy rate in NLP data processing and establishing a 0.70–0.90 Pearson correlation metric, directly mirroring the evaluation consistency of expert human reviewers.
-  
+---
 <br>
 
 >**🏅 HackForge 2.0 (2026) — Apex Innovator & Top-Tier Finisher**
