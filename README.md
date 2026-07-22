@@ -16,7 +16,6 @@
 
 ### 🌐 THE TECHNICAL ARSENAL & CONNECTIVITY NEXUS
 
-
 > **Operating within modern web infrastructure, this stack is curated for high scalability, deterministic UI rendering, and resilient state management.**
 
 | DOMAIN | TECHNOLOGIES & DIRECT CHANNELS |
@@ -29,7 +28,6 @@
 ---
 
 ### 🚀 ENTERPRISE-GRADE & LOGIC-DRIVEN ENGINEERING
-
 
 > Engineering is not just about writing code; it is about designing resilient systems that solve complex, real-world constraints at scale.
 
