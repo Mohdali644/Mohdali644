@@ -39,6 +39,7 @@
 
 * **Algorithmic Web Engines (Tic-Tac-Toe & Rock-Paper-Scissors)**
   * Architected a suite of logic-heavy, state-driven applications. Executed complex array manipulation, predictive state-handling, and rigorous win-state validation algorithms alongside strict modularity and zero-latency DOM repainting.
+    
 ---
 
 ### 🏆 APEX ACHIEVEMENTS & QUANTIFIABLE IMPACT
@@ -77,6 +78,7 @@
 </div>
 
 <br>
+
 
 ---
 
