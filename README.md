@@ -77,9 +77,8 @@
 
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohdali644&theme=tokyonight&hide_border=true" width="55%" alt="Commit Streak Analytics" />
+  <img src="https://streak-stats.demolab.com/?user=Mohdali644&theme=tokyonight&hide_border=true" width="55%" alt="Commit Streak Analytics" />
 </div>
-
 <br>
 
 ---
