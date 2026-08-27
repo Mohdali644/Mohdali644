@@ -1,6 +1,5 @@
 <div align="center">
 
-
 #  Hi, I'm Mohd Ali 
 ### FRONTEND ARCHITECT | FULL-STACK EXPLORER | SYSTEMS INNOVATOR
 <br>
@@ -14,7 +13,6 @@
 </div>
 
 ---
-
 
 ### 🌐 THE TECHNICAL ARSENAL & CONNECTIVITY NEXUS 
 
