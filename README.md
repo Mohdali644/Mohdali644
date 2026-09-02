@@ -31,8 +31,8 @@
 
 > Engineering is not just about writing code; it is about designing resilient systems that solve complex, real-world constraints at scale.
 
-* **EverBuy: High-Frequency E-Commerce Prototype**
-  * Engineered a hyper-optimized retail platform featuring zero-latency DOM orchestration and state-persistent inventory. Synthesized complex asynchronous architecture with real-time user telemetry and performance-neutral 3D UI interactions.
+* **EverBuy: Component-Driven E-Commerce Architecture**
+  * Engineered a highly scalable Single Page Application (SPA) utilizing React and Tailwind CSS for zero-latency dynamic routing. Architected a robust global state engine via Context API to seamlessly persist inventory data, paired with custom physics-based 3D interactions for a frictionless user experience.
 
 * **Whiskerverse: Data Aggregator**
   * Constructed a highly available, API-driven platform that orchestrates complex, asynchronous data pipelines from disparate endpoints, delivering a unified, real-time client experience without thread-blocking.
