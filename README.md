@@ -59,11 +59,14 @@
 ---
 
 ### ⚙️ ENGINEERING PHILOSOPHY & TRAJECTORY
-> **Technical Evolution & Career Pathway**
 
-1.  **Algorithmic Rigor:** Forged a relentless foundation in core computational logic, memory optimization, and data structures through intensive **C** and **Python** development. 
-2.  **Client-Side Dominance:** Mastering the complete lifecycle of frontend systems to deliver accessible, heavily interactive, and buttery-smooth user interfaces that command attention.
-3.  **Full-Stack Scaling:** Executing a strategic, deep-dive expansion into the **MERN/PERN ecosystems** to architect end-to-end, highly secure, and horizontally scalable backend infrastructures.
+> Technical Evolution & Career Pathway
+
+1. **Algorithmic Rigor:** Forged a strict foundation in core computational logic, memory optimization, and data structures through intensive **C** and **Python** development.
+
+2. **Client-Side Dominance:** Mastering the complete frontend lifecycle to deliver accessible, highly interactive, and performant user interfaces.
+
+3. **Full-Stack Scaling:** Expanding into the **MERN/PERN ecosystems** to architect secure, horizontally scalable, and end-to-end backend infrastructures.
 
 ---
 
