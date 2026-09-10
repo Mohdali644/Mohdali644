@@ -32,14 +32,14 @@
 > Engineering is not just about writing code; it is about designing resilient systems that solve complex, real-world constraints at scale.
 
 * **EverBuy: Component-Driven E-Commerce Architecture**
-  * Engineered a highly scalable Single Page Application (SPA) utilizing React and Tailwind CSS for zero-latency dynamic routing. Architected a robust global state engine via Context API to seamlessly persist inventory data, paired with custom physics-based 3D interactions for a frictionless user experience.
+  * Engineered a scalable **React/Tailwind** SPA with zero-latency dynamic routing. Built a robust global state engine via Context API for seamless inventory persistence and custom 3D interactions.
 
 * **Whiskerverse: Data Aggregator**
-  * Constructed a highly available, API-driven platform that orchestrates complex, asynchronous data pipelines from disparate endpoints, delivering a unified, real-time client experience without thread-blocking.
+  * Constructed a highly available, API-driven platform orchestrating complex asynchronous data pipelines to deliver a real-time client experience without thread-blocking.
 
 * **Algorithmic Web Engines (Tic-Tac-Toe & Rock-Paper-Scissors)**
-  * Architected a suite of logic-heavy, state-driven applications. Executed complex array manipulation, predictive state-handling, and rigorous win-state validation algorithms alongside strict modularity and zero-latency DOM repainting.
-    
+  * Architected state-driven applications utilizing complex array manipulation, rigorous win-state validation algorithms, and zero-latency DOM repainting.
+
 ---
 
 ### 🏆 APEX ACHIEVEMENTS & QUANTIFIABLE IMPACT
