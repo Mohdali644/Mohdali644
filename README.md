@@ -44,17 +44,17 @@
 
 ### 🏆 APEX ACHIEVEMENTS & QUANTIFIABLE IMPACT
 
- >**🔬 Academic Publication (2026) — Indian Journal of Technical Education (IJTE)**
-* **The Architecture:** Co-authored "AI Powered Academic Evaluation," architecting a multimodal **React/Flask** platform leveraging LLMs for scalable, automated grading.
-* **The Impact:** Engineered a Semantic Relevance Engine with NLP pipelines **(spaCy, NLTK)** to successfully orchestrate the objective, bias-free evaluation of unstructured academic data.
-* **The Metrics:** Achieved a **95.92%** NLP processing accuracy and a **0.70–0.90** Pearson correlation, directly matching the evaluation consistency of expert human reviewers.
+>**🔬 Academic Publication (2026) — Indian Journal of Technical Education (IJTE)**
+* **The Architecture:** Built a multimodal **React/Flask** platform using LLMs for scalable, automated grading.
+* **The Impact:** Engineered an NLP Semantic Relevance Engine (**spaCy, NLTK**) that matches expert human review consistency.
+* **The Metrics:** Achieved **95.9%** NLP processing accuracy and a **0.70–0.90** Pearson correlation.
 
 <br>
 
 >**🏅 HackForge 2.0 (2026) — Apex Innovator & Top-Tier Finisher**
-* **The Architecture:** Spearheaded the technical rollout of **Aptivox**, an enterprise-grade, AI-driven interviewing platform deployed in a high-pressure, time-constrained environment against 200+ elite global teams.
-* **The Impact:** Integrated sophisticated NLP algorithms and Machine Learning models to systematically eliminate human bias in recruitment. 
-* **The Metrics:** Delivered an application proven to drive an **89% reduction** in hiring cycle latency and a **96% accuracy rate** in algorithmic skill-matching.
+* **The Architecture:** Spearheaded **Aptivox**, an AI-driven interview platform built against 200+ elite global teams.
+* **The Impact:** Deployed ML and NLP pipelines designed to systematically eliminate human bias in recruitment. 
+* **The Metrics:** Drove an **89% reduction** in hiring latency and a **96% accuracy rate** in skill-matching.
 
 ---
 
