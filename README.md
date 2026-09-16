@@ -73,7 +73,7 @@
 ### 📈 REAL-TIME TELEMETRY & GITHUB METRICS
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Initializing+System+Architecture...;Compiling+Zero-Latency+DOM+Algorithms...;Executing+Full-Stack+Protocols...;Accessing+Mohd+Ali's+Live+Telemetry..." alt="System Initialization Terminal" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Initializing+System+Architecture...;Compiling+Lowest-Latency+DOM+Algorithms...;Executing+Full-Stack+Protocols...;Accessing+Mohd+Ali's+Live+Telemetry..." alt="System Initialization Terminal" />
 
 <br>
 <div align="center">
