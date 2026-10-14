@@ -14,7 +14,6 @@
 
 ---
 
-
 ### 🌐 THE TECHNICAL ARSENAL & CONNECTIVITY NEXUS 
 
 > **Operating within modern web infrastructure, this stack is curated for high scalability, predictable rendering, and resilient state management.**
