@@ -18,7 +18,6 @@
 
 > **Operating within modern web infrastructure, this stack is curated for high scalability, predictable rendering, and resilient state management.**
 
-
 | DOMAIN | TECHNOLOGIES & DIRECT CHANNELS |
 | :--- | :--- |
 | **Core Languages** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> |
